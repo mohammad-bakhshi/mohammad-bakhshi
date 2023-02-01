@@ -5,9 +5,10 @@ A developer, focus on back-end programming.
 hardworking, diligent, and dedicated. I put
 teamwork as the first priority.
 
-Skills: Node.js/ JS / HTML / CSS /
+Skills: JavaScript/ TypeScript/ Node.js/ Express.js/ Nest.js
 
-- :monocle_face: I’m currently learning Node.js 
+
+- :monocle_face: I’m currently learning Node.js and React.js 
 - :handshake: I’m looking to collaborate on Node.js 
 - :email: How to reach me: mohammadbakhshi1979@gmail.com 
 

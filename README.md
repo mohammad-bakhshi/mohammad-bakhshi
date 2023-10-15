@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Mohammad
-#### I am a Backend developer
+#### I am a Full-stack Web Developer
 
-A developer, focus on back-end programming.
+A developer, focus on web programming.
 hardworking, diligent, and dedicated. I put
 teamwork as the first priority.
 
-Skills: JavaScript/ TypeScript/ Node.js/ Express.js/ Nest.js
+Skills: JavaScript/ TypeScript/ Node.js/ Express.js/ Nest.js/ React.js
 
 
 - :monocle_face: I’m currently learning Node.js and React.js 
-- :handshake: I’m looking to collaborate on Node.js 
+- :handshake: I’m looking to collaborate on Node.js and React.js
 - :email: How to reach me: mohammadbakhshi1979@gmail.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-bakhshi&show_icons=true&theme=radical)
